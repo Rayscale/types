@@ -1,3 +1,3 @@
-# reactives
+# types
 
-Lightweight, type-safe reactivity library built with TypeScript.
+Type definitions for the Rayscale ecosystem.

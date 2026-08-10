@@ -1,6 +1,6 @@
 {
-  "name": "@rayscale/reactives",
-  "description": "Architectural web interface framework",
+  "name": "@rayscale/types",
+  "description": "Type definitions for the Rayscale ecosystem.",
   "version": "1.0.0",
   "exports": "./source/index.ts",
   "publish": {
