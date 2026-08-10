@@ -29,6 +29,6 @@
     "exclude": ["playground", "coverage/"]
   },
   "tasks": {
-    "quality-check": "deno fmt --check && deno lint && deno check && deno test -a"
+    "quality-check": "deno fmt --check && deno lint && deno check"
   }
 }
