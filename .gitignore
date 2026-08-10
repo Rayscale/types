@@ -1,0 +1,24 @@
+# Deno
+.deno/
+
+# Testing
+coverage/
+*.prof
+
+# Project
+documentation/
+sandbox/
+
+# environment
+.env
+.env.*
+!.env.example
+
+# IDEs
+.vscode/*
+.idea/
+*.swp
+
+# OS Files
+.DS_Store
+Thumbs.db
