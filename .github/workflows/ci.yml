@@ -29,6 +29,4 @@ jobs:
 
       - name: Publish to JSR
         if: github.event_name == 'push' && (github.ref == 'refs/heads/main' || github.ref == 'refs/heads/master')
-        env:
-          JSR_TOKEN: ${{ secrets.JSR_TOKEN }}
-        run: deno publish --token ${{ env.JSR_TOKEN }}
+        run: deno publish
