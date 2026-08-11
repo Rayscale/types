@@ -36,3 +36,12 @@ you into concrete implementations.
 ```bash
 deno add jsr:@rayscale/types
 ```
+
+## Authors
+
+- **Rayscale** ([@rayscale](https://github.com/rayscale))
+
+## License
+
+This project is licensed under the MIT License - see the `LICENSE` file for
+details.
