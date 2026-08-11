@@ -22,12 +22,9 @@
   },
   "lint": {
     "rules": {
-      "tags": ["recommended"],
-      "include": ["ban-untagged-todo"],
-      "exclude": ["require-await", "no-this-alias"]
+      "tags": ["recommended"]
     },
-    "include": ["source/", "tests/"],
-    "exclude": ["playground", "coverage/"]
+    "include": ["source/"]
   },
   "tasks": {
     "quality-check": "deno fmt --check && deno lint && deno check"
