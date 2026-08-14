@@ -1,7 +1,6 @@
 # Types
 
-> Collection of clean, agnostic, and reusable lifecycle and capability
-> interfaces.
+> Clean, agnostic, and reusable lifecycle and capability interfaces.
 
 ## Description
 
