@@ -1,6 +1,6 @@
 # Types
 
-> Clean, agnostic, and reusable lifecycle and capability interfaces.
+> Essential, type-safe lifecycle and capability contracts for modern applications.
 
 ## Description
 
